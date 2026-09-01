@@ -1,4 +1,4 @@
-# Ledgerly Public Hub
+# Roznamcha Digital Public Hub
 
 This repository is the public-facing hub for **bug reports** and **release assets**.
 
@@ -7,5 +7,5 @@ This repository is the public-facing hub for **bug reports** and **release asset
 - Follow release notes and download published binaries in [Releases](https://github.com/ehtisham-afzal/ledgerly-public/releases)
 
 ## Source code
-Ledgerly source code is maintained in a private repository.
+Roznamcha Digital source code is maintained in a private repository.
 This public repository does not contain application source code.
